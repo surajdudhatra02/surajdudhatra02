@@ -1,20 +1,20 @@
 
 # Hi 👋, I'm Suraj Dudhatra
 
-Fullstack Developer | MERN Stack | React Native | Next.js
+Fullstack Developer | React Native | MERN Stack | Next.js
 
 
 
 ## 🚀 About Me
 
 I’m a passionate **Fullstack Developer** with hands-on experience in building scalable, responsive, and user-friendly applications. I enjoy solving problems, learning new technologies, and turning ideas into impactful digital products.
+
 ## 🛠 Skills
-Javascript, HTML, CSS...
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Core Java  
-- **Frontend:** React.js, Next.js, React Native, Redux, Tailwind CSS  
+- **Frontend:** React.js, Next.js, React Native, Redux, Zustand, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, SQL Server Management Studio (SSMS)  
+- **Database:** MongoDB, SQL Server Management Studio (SSMS), Supabase 
 - **Tools & Platforms:** GitHub, Postman, SAP Crystal Reports  
 
 ## 💼 Experience
