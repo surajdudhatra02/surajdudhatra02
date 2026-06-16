@@ -32,11 +32,12 @@ Javascript, HTML, CSS...
 - **Freelance Project: Saurashtra Groundnut Oil Website (Feb 2025 – Mar 2025)**  
   - Developed a clean, responsive React-based company website.  
 ## 🌐 Connect with Me  
-- 📧 [Email](mailto:surajdudhatra02@gmail.com)  
+- 📧 [Email](mailto:surajdudhatra02@gmail.com)
+- 🌍 [Portfolio](https://surajd.com/)
+- 📱 [Playstore](https://play.google.com/store/apps/developer?id=suraj+d) 
 - 💼 [LinkedIn](https://linkedin.com/in/suraj-dudhatra)  
 - 🐙 [GitHub](https://github.com/surajdudhatra02)  
 - 🧑‍💻 [LeetCode](https://leetcode.com/surajdudhatra/) | [HackerRank](https://hackerrank.com/surajdudhatra)  
-- 🌍 [Portfolio](https://surajdudhatra.netlify.app/)  
 
 ## 
 
